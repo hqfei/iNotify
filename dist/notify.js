@@ -2,7 +2,7 @@
  * @wcjiang/notify v2.0.12
  * JS achieve the browser title flashing , scrolling, voice prompts , chrome notice.
  * 
- * Copyright (c) 2018 kenny wang
+ * Copyright (c) 2020 kenny wang
  * http://jaywcjlove.github.io/iNotify
  * 
  * Licensed under the MIT license.
@@ -223,6 +223,7 @@
         option.icon = json.icon ? json.icon : iconURL;
         option.body = nt.body;
         if (json.dir) option.dir = json.dir;
+        if (json.tag) option.tag = json.tag;
         var n = new Notification(nt.title, option);
 
         n.onclick = function () {

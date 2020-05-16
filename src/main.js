@@ -189,6 +189,7 @@ Notify.prototype = {
       option.icon = json.icon ? json.icon : iconURL;
       option.body = nt.body;
       if (json.dir) option.dir = json.dir;
+      if (json.tag) option.tag = json.tag;
       const n = new Notification(nt.title, option);
       n.onclick = () => {
         (onclick && typeof onclick === 'function') && onclick(n);
