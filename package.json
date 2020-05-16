@@ -1,5 +1,5 @@
 {
-  "name": "hqfei",
+  "name": "inotifyjs",
   "version": "1.0.0",
   "description": "JS achieve the browser title flashing , scrolling, voice prompts , chrome notice.",
   "main": "index.js",

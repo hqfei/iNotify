@@ -1,5 +1,5 @@
 /*!
- * hqfei v1.0.0
+ * inotifyjs v1.0.0
  * JS achieve the browser title flashing , scrolling, voice prompts , chrome notice.
  * 
  * Copyright (c) 2020 hqfei
