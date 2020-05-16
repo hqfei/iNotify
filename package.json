@@ -1,12 +1,12 @@
 {
-  "name": "@wcjiang/notify",
-  "version": "2.0.12",
+  "name": "hqfei",
+  "version": "1.0.0",
   "description": "JS achieve the browser title flashing , scrolling, voice prompts , chrome notice.",
   "main": "index.js",
   "module": "dist/notify.esm.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaywcjlove/iNotify.git"
+    "url": "https://github.com/hqfei/iNotify.git"
   },
   "keywords": [
     "inotify",
@@ -15,12 +15,12 @@
     "notice",
     "notification"
   ],
-  "author": "kenny wang",
+  "author": "hqfei",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jaywcjlove/iNotify/issues"
+    "url": "https://github.com/hqfei/iNotify/issues"
   },
-  "homepage": "http://jaywcjlove.github.io/iNotify",
+  "homepage": "http://hqfei.github.io/iNotify",
   "scripts": {
     "build": "node scripts/build.js",
     "watch": "node scripts/watch.js",

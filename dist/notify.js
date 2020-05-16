@@ -1,9 +1,9 @@
 /*!
- * @wcjiang/notify v2.0.12
+ * hqfei v1.0.0
  * JS achieve the browser title flashing , scrolling, voice prompts , chrome notice.
  * 
- * Copyright (c) 2020 kenny wang
- * http://jaywcjlove.github.io/iNotify
+ * Copyright (c) 2020 hqfei
+ * http://hqfei.github.io/iNotify
  * 
  * Licensed under the MIT license.
  */
